@@ -1,0 +1,11 @@
+var a;
+var b;
+a = 0;
+b = 0;
+if(a>2){
+a = 3;
+}
+else {
+a = 2;
+}
+PRINT a;

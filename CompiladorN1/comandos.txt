@@ -1,0 +1,6 @@
+var a;
+var b;
+var c;
+a = 13;
+b = 4;
+c = 17;
